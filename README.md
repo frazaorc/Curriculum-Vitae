@@ -48,10 +48,10 @@ Líder estratégico com foco em manter operações críticas 24/7. Especialista 
 * **Especialização em Matemática, Tecnologias e Mundo do Trabalho** | *UFPI* | 2023
 * **Especialização em Tecnologias e Ensino de Matemática** | *UNIASSELVI* | 2021
 * **Especialização em Docência do Ensino Superior** | *Faculdade do Maranhão* | 2011 – 2012
-* **Formação Pedagógica (Pedagogia)** | *IFSULDEMINAS* | 2019 – 2021
-* **Licenciatura em Matemática** | *UNIASSELVI* | 2019 – 2021
 
 ### 🎓 Graduação e Formação Base
+* **Formação Pedagógica (Pedagogia)** | *IFSULDEMINAS* | 2019 – 2021
+* **Licenciatura em Matemática** | *UNIASSELVI* | 2019 – 2021
 * **Bacharel em Teologia Sistemática** | *ITG* | 2011 – 2014
 * **Tecnólogo em Gestão da Tecnologia da Informação** | *Unisul* | 2006 – 2009
 * **Técnico em Eletrônica** | *CEFET-MA (IFMA)* | 1995 – 1997
@@ -65,7 +65,7 @@ Líder estratégico com foco em manter operações críticas 24/7. Especialista 
 **Executivo de Plataformas e Tecnologia | CGR | NOC/SOC**
 *Jun 2025 – Momento*
 * Liderança estratégica de operações críticas 24/7.
-* Integração de Inteligência Artificial para otimização de infraestrutura e plataformas.
+* Liderança em NOC e Plataformas e Tecnologia.
 
 **Executivo de Plataformas e Tecnologia**
 *Jan 2024 – Jun 2025*
