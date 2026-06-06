@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardsonfrazao@hotmail.com)
 
 ## 📌 Resumo Executivo
-Líder estratégico com foco em manter operações críticas 24/7. Especialista em gestão de equipas de NOC/SOC, projetos de missão crítica e cibersegurança. Atuo na intersecção entre a visão executiva, a precisão da engenharia e a inovação académica, garantindo a continuidade de serviços essenciais em telecomunicações e infraestrutura.
+Líder estratégico com foco em manter operações críticas 24/7. Especialista em gestão de equipes de NOC, projetos de missão crítica. Atuo na intersecção entre a visão executiva, a precisão da engenharia e a inovação académica, garantindo a continuidade de serviços essenciais em telecomunicações e infraestrutura.
 
 ---
 
