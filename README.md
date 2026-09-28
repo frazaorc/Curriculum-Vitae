@@ -12,7 +12,7 @@ Líder estratégico com foco em manter operações críticas 24/7. Especialista 
 ## 🎓 Formação Acadêmica
 
 ### 🚀 Mestrado e Pesquisa de Missão Crítica
-* **Mestrado em Computação de Missão Crítica (MSc)**
+* **Mestrado em Engenharia e Computação de Missão Crítica (MSc)**
     * *Instituto Tecnológico de Aeronáutica (ITA)* | 2023 – 2026
 
 ### 🛡️ Cibersegurança e Redes (Pós-Graduação)
