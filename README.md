@@ -1,5 +1,5 @@
 # Richardson C. Frazão
-**Executive in Platforms & Technology | NOC/SOC & Critical Infrastructure Leader** **Mestre em Mission Critical Computing pelo ITA**
+**Executive in Platforms & Technology | NOC/SOC & Critical Infrastructure Leader** **Mestre em Mission Critical Computing ITA**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardsonfrazao)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardsonfrazao@hotmail.com)
