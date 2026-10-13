@@ -50,8 +50,8 @@ Líder estratégico com foco em manter operações críticas 24/7. Especialista 
 * **Especialização em Docência do Ensino Superior** | *Faculdade do Maranhão* | 2011 – 2012
 
 ### 🎓 Graduação e Formação Base
-* **Formação Pedagógica (Pedagogia)** | *IFSULDEMINAS* | 2019 – 2021
-* **Licenciatura em Matemática** | *UNIASSELVI* | 2019 – 2021
+* **Formação Pedagógica (GTI)** | *IFSULDEMINAS* | 2019 – 2021
+* **Formação Pedagógica (Matemática)** | *UNIASSELVI* | 2019 – 2021
 * **Bacharel em Teologia Sistemática** | *ITG* | 2011 – 2014
 * **Tecnólogo em Gestão da Tecnologia da Informação** | *Unisul* | 2006 – 2009
 * **Técnico em Eletrônica** | *CEFET-MA (IFMA)* | 1995 – 1997
